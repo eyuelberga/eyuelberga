@@ -10,7 +10,7 @@ I am a Software Engineer from Ethiopia. I am interested in writing about and dev
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/eyuel-berga-woldemichael-1737ba152](https://et.linkedin.com/in/eyuelberga)
+- LinkedIn: [linkedin.com/in/eyuelberga](https://et.linkedin.com/in/eyuelberga)
 - Medium: [medium.com/@eyuelwoldemichael](https://medium.com/@eyuelwoldemichael)
 - DEV Community: [dev.to/eyuelberga](https://dev.to/eyuelberga)
 
