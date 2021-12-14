@@ -25,19 +25,23 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=keywrite&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" />
   </a>
  </div>
+  <div align="center">
+  <a href="https://github.com/eyuelberga/gis-school-analysis-tool">
+  <img  src="https://github.com/eyuelberga/gis-school-analysis-tool/blob/master/banner.png?raw=true" alt="School Analysis logo" width="400" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=gis-school-analysis-tool&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" />
+  </a>
+ </div>
+  <div align="center">
+  <a href="https://github.com/eyuelberga/pic-share">
+  <img  src="https://github.com/eyuelberga/pic-share/blob/master/img/banner.png?raw=true" alt="Pic-Share logo" width="400" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=pic-share&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" />
+  </a>
+ </div>
 
+<!--
 ## :wrench: Languages and Tools
+ -->
 
-<p>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
-<!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- 
 ## :newspaper: Recent Articles
  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/0" alt="Recent Article 0"> 
