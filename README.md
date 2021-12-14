@@ -21,7 +21,7 @@
   </div>
  <div align="center">
   <a href="https://github.com/eyuelberga/keywrite">
-  <img  src="https://github.com/eyuelberga/keywrite/blob/main/logo/logo.png?raw=true" alt="Keywrite logo" width="400" />
+  <img  src="https://github.com/eyuelberga/keywrite/blob/main/logo/banner.png?raw=true" alt="Keywrite logo" width="400" />
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=keywrite&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" />
   </a>
  </div>
