@@ -56,13 +56,13 @@
 
 ## :newspaper: Recent Articles
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eeyuelberga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/1" alt="Recent Article 1"> 
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelwoldemichael/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/2" alt="Recent Article 2"> 
  
- <p align="center"><a href="https://medium.com/@eyuelwoldemichael"><img src="https://img.shields.io/badge/medium profile-3e7e7e?style=for-the-badge&logo=medium&logoColor=white&" alt="Medium Profile" /></a>&nbsp;
+ <p align="center"><a href="https://eyuelberga.medium.com"><img src="https://img.shields.io/badge/medium profile-3e7e7e?style=for-the-badge&logo=medium&logoColor=white&" alt="Medium Profile" /></a>&nbsp;
 <a href="https://dev.to/eyuelberga"><img src="https://img.shields.io/badge/dev.to Profile-3e7e7e?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Profile" /></a>&nbsp;</p>
 
 ## :chart_with_upwards_trend: My GitHub Stats
