@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eyuelberga/"><img src="https://img.shields.io/badge/Linkedin-3e7e7e?style=for-the-badge&logo=linkedin&logoColor=fed850" alt="Linkedin" /></a>&nbsp;
- <a href="https://medium.com/@eyuelwoldemichael"><img src="https://img.shields.io/badge/medium-3e7e7e?style=for-the-badge&logo=medium&logoColor=fed850" alt="Medium" /></a>&nbsp;
+ <a href="https://eyuelberga.medium.com/"><img src="https://img.shields.io/badge/medium-3e7e7e?style=for-the-badge&logo=medium&logoColor=fed850" alt="Medium" /></a>&nbsp;
 <a href="https://dev.to/eyuelberga"><img src="https://img.shields.io/badge/dev.to-3e7e7e?style=for-the-badge&logo=dev.to&logoColor=fed850" alt="Dev.to" /></a>&nbsp;
 <a href="https://twitter.com/eyuelbergaw"><img src="https://img.shields.io/badge/Twitter-3e7e7e?style=for-the-badge&logo=twitter&logoColor=fed850" alt="Twitter" /></a>&nbsp;
 </p>
