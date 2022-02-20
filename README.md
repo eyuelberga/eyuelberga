@@ -44,6 +44,12 @@
   </a>
  </div>
   <div align="center">
+  <a href="https://github.com/eyuelberga/KesarCipher">
+  <img  src="https://github.com/eyuelberga/KesarCipher/blob/main/banner.png?raw=true" alt="Kesar Cipher logo" width="400" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=KesarCipher&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" />
+  </a>
+ </div>
+  <div align="center">
   <a href="https://github.com/eyuelberga/AmharicProverbsAPI">
   <img  src="https://github.com/eyuelberga/AmharicProverbsAPI/blob/main/banner.png?raw=true" alt="Amharic Proverbs API logo" width="400" />
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=AmharicProverbsAPI&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" />
