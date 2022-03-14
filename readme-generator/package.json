@@ -1,0 +1,10 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "yargs": "^17.3.1"
+  }
+}
