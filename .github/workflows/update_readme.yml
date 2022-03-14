@@ -8,11 +8,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v2
-          - name: Install and Build
+          - name: Install
             run: |
               cd readme-generator
               yarn
-              yarn build
           - name: Generate readme
             run: |
               node ./readme-generator/index.js -c ./config.yaml -o ./README.md
