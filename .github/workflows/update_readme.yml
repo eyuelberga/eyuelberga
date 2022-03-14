@@ -10,6 +10,7 @@ jobs:
           - uses: actions/checkout@v2
           - name: Install and Build
             run: |
+              cd readme-generator
               yarn
               yarn build
           - name: Generate readme
