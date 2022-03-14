@@ -5,11 +5,11 @@
 <a href="https://eyuelberga.medium.com"><img src="https://img.shields.io/badge/medium-3e7e7e?style=for-the-badge&logo=medium&logoColor=fed850" alt="medium" /></a>&nbsp;
 <a href="https://dev.to/eyuelberga"><img src="https://img.shields.io/badge/dev.to-3e7e7e?style=for-the-badge&logo=dev.to&logoColor=fed850" alt="dev.to" /></a>&nbsp;
 <a href="https://twitter.com/eyuelbergaw"><img src="https://img.shields.io/badge/twitter-3e7e7e?style=for-the-badge&logo=twitter&logoColor=fed850" alt="twitter" /></a>&nbsp;
-<a href="https://eyuelberga.github.io"><img src="https://img.shields.io/badge/website-3e7e7e?style=for-the-badge&logo=website&logoColor=fed850" alt="website" /></a>&nbsp;
-<a href="https://github.com/eyuelberga"><img src="https://img.shields.io/badge/github-3e7e7e?style=for-the-badge&logo=github&logoColor=fed850" alt="github" /></a>&nbsp; 
+<a href="https://github.com/eyuelberga"><img src="https://img.shields.io/badge/github-3e7e7e?style=for-the-badge&logo=github&logoColor=fed850" alt="github" /></a>&nbsp;
+<a href="https://eyuelberga.github.io"><img src="https://img.shields.io/badge/website-3e7e7e?style=for-the-badge&logo=website&logoColor=fed850" alt="website" /></a>&nbsp; 
 </p>
 
-<p align="center">A Full-Stack Software Developer with a passion for writing </p>
+<p align="center">Full-Stack Software Developer with a passion for writinga </p>
 
 ## :computer: Featured Projects
 
