@@ -9,7 +9,7 @@
 <a href="https://eyuelberga.github.io"><img src="https://img.shields.io/badge/website-3e7e7e?style=for-the-badge&logo=website&logoColor=fed850" alt="website" /></a>&nbsp; 
 </p>
 
-<p align="center">Full-Stack Software Developer with a passion for writinga </p>
+<p align="center">I am a Software Developer currently based in Addis Ababa, Ethiopia. I am passionate about Web and Mobile Development. </p>
 
 ## :computer: Featured Projects
 
