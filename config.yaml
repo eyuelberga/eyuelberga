@@ -44,7 +44,7 @@ education:
       - One of the top universities in Africa
       - Graduated with Great Distniction 
 projects:
- - name: The Classroom
+  - name: The Classroom
     repo: TheClassroom
     description: A Learning Management system
     banner:
