@@ -44,6 +44,17 @@ education:
       - One of the top universities in Africa
       - Graduated with Great Distniction 
 projects:
+ - name: The Classroom
+    repo: TheClassroom
+    description: A Learning Management system
+    banner:
+      branch: main
+      path: banner.png
+    tech:
+      - Hasura
+      - React
+      - Auth0
+      - GraphQL
   - name: Peer Notes
     repo: peernotes
     description: A web application for High School students to share school notes with other peers
