@@ -14,6 +14,13 @@
 ## :computer: Featured Projects
 
 <div align="center">
+      <a href="https://github.com/eyuelberga/TheClassroom/" >
+      <img src="https://github.com/eyuelberga/TheClassroom/blob/main/banner.png?raw=true" width="400" alt="The Classroom" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=TheClassroom&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
+      </a>
+      </div>
+
+<div align="center">
       <a href="https://github.com/eyuelberga/peernotes/" >
       <img src="https://github.com/eyuelberga/peernotes/blob/main/assets/banner.png?raw=true" width="400" alt="Peer Notes" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=peernotes&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
