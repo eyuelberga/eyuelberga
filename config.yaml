@@ -113,6 +113,16 @@ projects:
       - WebRTC
       - React
       - NodeJs
+  - name:  Link In Bio Tool
+    repo: LinkInBio
+    description: Link In Bio tool made with Cloudflare Workers and KV.
+    banner:
+      branch: main
+      path: banner.png
+    tech:
+      - Typescript
+      - Cloudflare Workers
+      - Cloudflare KV
   - name: Amharic Proverbs
     repo: AmharicProverbs
     description: Web appication to access Amharic proverbs from the Amharic Proverbs API
