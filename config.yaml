@@ -55,6 +55,16 @@ projects:
       - React
       - Auth0
       - GraphQL
+  - name:  HTML Canavas Image Watermarker
+    repo: HTMLCanvasImageWatermarker
+    description: Image Watermarking Tool built using HTML Canvas.
+    banner:
+      branch: main
+      path: banner.png
+    tech:
+      - JavaScript
+      - Vite
+      - Bootstrap
   - name: Peer Notes
     repo: peernotes
     description: A web application for High School students to share school notes with other peers
