@@ -12,7 +12,7 @@ const getBannerFromRepo = (repo, path, username, branch) => {
 const addProject = (name, username, repo, color, banner) => {
   return `<div align="center">
       <a href="https://github.com/${username}/${repo}/" >
-      <img src="${banner}" width="400" height="343" alt="${name}" />
+      <img src="${banner}" width="400" alt="${name}" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo}&hide_border=true&icon_color=${color}&title_color=${color}" /> 
       </a>
       </div>`;
