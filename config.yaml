@@ -45,12 +45,12 @@ education:
       - Graduated with Great Distniction 
 projects:
  - name: Crypto Track
-    repo: CryptoTrack
-    description: Track your Cryptocurrencies and get instant email notification whenever they change
-    banner:
-      branch: main
-      path: banner.png
-    tech:
+   repo: CryptoTrack
+   description: Track your Cryptocurrencies and get instant email notification whenever they change
+   banner:
+     branch: main
+     path: banner.png
+   tech:
       - Supabase
       - React
       - Courier
