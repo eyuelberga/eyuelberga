@@ -75,6 +75,16 @@ projects:
       - JavaScript
       - Vite
       - Bootstrap
+  - name: Dash Store
+    repo: DashStore
+    description: Web application for creating an online storefront
+    banner:
+      branch: main
+      path: banner.png
+      tech:
+      - Laravel
+      - Blade
+      - Tailwind CSS
   - name: Peer Notes
     repo: peernotes
     description: A web application for High School students to share school notes with other peers
