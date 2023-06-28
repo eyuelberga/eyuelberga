@@ -14,6 +14,13 @@
 ## :computer: Featured Projects
 
 <div align="center">
+      <a href="https://github.com/eyuelberga/MatchTheTilesGame/" >
+      <img src="https://github.com/eyuelberga/MatchTheTilesGame/blob/main/screenshots/banner.png?raw=true" width="400" alt="Match The Tiles" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=MatchTheTilesGame&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
+      </a>
+      </div>
+
+<div align="center">
       <a href="https://github.com/eyuelberga/CryptoTrack/" >
       <img src="https://github.com/eyuelberga/CryptoTrack/blob/main/banner.png?raw=true" width="400" alt="Crypto Track" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=CryptoTrack&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
