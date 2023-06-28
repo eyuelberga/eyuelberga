@@ -44,6 +44,16 @@ education:
       - One of the top universities in Africa
       - Graduated with Great Distniction 
 projects:
+  - name: Match The Tiles
+    repo: MatchTheTilesGame
+    description: A puzzle game where you must find and eliminate pairs of identical tiles by flipping them over, aiming to clear the entire board.
+    banner:
+      branch: main
+      path: screenshots/banner.png
+      tech:
+      - Javascript
+      - HTML
+      - CSS
   - name: Crypto Track
     repo: CryptoTrack
     description: Track your Cryptocurrencies and get instant email notification whenever they change
