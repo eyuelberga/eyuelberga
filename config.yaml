@@ -1,6 +1,6 @@
 name: Eyuel Berga Woldemichael
 title: Full-Stack Software Developer
-summary: Hi there! I'm Eyuel, Fullstack developer from Ethiopia, currently living in the US.
+summary: Hi there! I'm Eyuel, a Software Developer currently based in the US.
 social:
   linkedin: eyuelberga
   medium: eyuelberga
@@ -37,16 +37,16 @@ education:
   - institution: Addis Ababa University
     study: Bsc. Software Engineering
     location: "Addis Ababa, Ethiopia"
-    start: "September, 2016"
-    end: "October, 2021"
+    start: "September 2016"
+    end: "October 2021"
     gpa: 3.57
     description:
       - One of the top universities in Africa
-      - Graduated with Great Distniction 
+      - Graduated with Great Distinction 
 projects:
- - name: Meal Time
+  - name: Meal Time
     repo: MealTime
-    description: A meal planning and recipe management app with a bunch of features that make meal planning a breeze.
+    description: A meal planning and recipe management app with many features that make meal planning a breeze.
     banner:
       branch: main
       path: assets/banner.png
@@ -88,7 +88,7 @@ projects:
       - React
       - Auth0
       - GraphQL
-  - name:  HTML Canavas Image Watermarker
+  - name:  HTML Canvas Image Watermarker
     repo: HTMLCanvasImageWatermarker
     description: Image Watermarking Tool built using HTML Canvas.
     banner:
@@ -124,7 +124,7 @@ projects:
       - GraphQL
   - name: Keywrite
     repo: keywrite
-    description: A Javascript library for creating custom input methods for typing non-latin scripts on standard keyboard
+    description: A Javascript library for creating custom input methods for typing non-Latin scripts on a standard keyboard
     banner:
       branch: main
       path: logo/banner.png
@@ -132,10 +132,10 @@ projects:
       - TypeScript
       - Yarn Workspace
       - Lerna
-      - Github Actions
+      - GitHub Actions
   - name: School Location Analysis Tool
     repo: gis-school-analysis-tool
-    description: a GIS application to locate potential locations for public school construction in the city of Addis Ababa, Ethiopia.
+    description: a GIS application to locate potential locations for public school construction in Addis Ababa, Ethiopia.
     banner:
       branch: master
       path: banner.png
@@ -148,7 +148,7 @@ projects:
       - Docker
   - name: Pic Share
     repo: pic-share
-    description: WebRTC based P2P image sharing web application
+    description: WebRTC-based P2P image-sharing web application
     banner:
       branch: master
       path: img/banner.png
@@ -168,7 +168,7 @@ projects:
       - Cloudflare KV
   - name: Amharic Proverbs
     repo: AmharicProverbs
-    description: Web appication to access Amharic proverbs from the Amharic Proverbs API
+    description: Web application to access Amharic proverbs from the Amharic Proverbs API
     banner:
       branch: main
       path: banner.png
@@ -195,5 +195,5 @@ projects:
       path: banner.png
     tech:
       - NestJs
-      - Mongodb
+      - MongoDB
       - Heroku
