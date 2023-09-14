@@ -44,6 +44,19 @@ education:
       - One of the top universities in Africa
       - Graduated with Great Distniction 
 projects:
+ - name: Meal Time
+    repo: MealTime
+    description: A meal planning and recipe management app with a bunch of features that make meal planning a breeze.
+    banner:
+      branch: main
+      path: assets/banner.png
+      tech:
+      - Next.js
+      - Spring Boot
+      - Keycloak
+      - Mysql
+      - Docker
+      - Python
   - name: Match The Tiles
     repo: MatchTheTilesGame
     description: A puzzle game where you must find and eliminate pairs of identical tiles by flipping them over, aiming to clear the entire board.
