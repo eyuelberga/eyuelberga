@@ -9,9 +9,16 @@
 <a href="https://eyuelberga.github.io"><img src="https://img.shields.io/badge/website-3e7e7e?style=for-the-badge&logo=website&logoColor=fed850" alt="website" /></a>&nbsp; 
 </p>
 
-<p align="center">Hi there! I'm Eyuel, Fullstack developer from Ethiopia, currently living in the US. </p>
+<p align="center">Hi there! I'm Eyuel, a Software Developer currently based in the US. </p>
 
 ## :computer: Featured Projects
+
+<div align="center">
+      <a href="https://github.com/eyuelberga/MealTime/" >
+      <img src="https://github.com/eyuelberga/MealTime/blob/main/assets/banner.png?raw=true" width="400" alt="Meal Time" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=MealTime&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
+      </a>
+      </div>
 
 <div align="center">
       <a href="https://github.com/eyuelberga/MatchTheTilesGame/" >
@@ -36,7 +43,7 @@
 
 <div align="center">
       <a href="https://github.com/eyuelberga/HTMLCanvasImageWatermarker/" >
-      <img src="https://github.com/eyuelberga/HTMLCanvasImageWatermarker/blob/main/banner.png?raw=true" width="400" alt="HTML Canavas Image Watermarker" />
+      <img src="https://github.com/eyuelberga/HTMLCanvasImageWatermarker/blob/main/banner.png?raw=true" width="400" alt="HTML Canvas Image Watermarker" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=HTMLCanvasImageWatermarker&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
       </div>
