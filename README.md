@@ -14,6 +14,13 @@
 ## :computer: Featured Projects
 
 <div align="center">
+      <a href="https://github.com/eyuelberga/UpskillNavigator/" >
+      <img src="https://github.com/eyuelberga/UpskillNavigator/blob/main/images/banner.png?raw=true" width="400" alt="Upskill Navigator" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=UpskillNavigator&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
+      </a>
+      </div>
+
+<div align="center">
       <a href="https://github.com/eyuelberga/MealTime/" >
       <img src="https://github.com/eyuelberga/MealTime/blob/main/assets/banner.png?raw=true" width="400" alt="Meal Time" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=MealTime&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
