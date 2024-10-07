@@ -39,11 +39,20 @@ education:
     location: "Addis Ababa, Ethiopia"
     start: "September 2016"
     end: "October 2021"
-    gpa: 3.57
+    gpa: 3.6
     description:
       - One of the top universities in Africa
       - Graduated with Great Distinction 
 projects:
+  - name: Upskill Navigator
+    repo: UpskillNavigator
+    description: An AI-powered career progression tool for large organizations that helps employees identify the skills they need for advancement and suggests personalized development paths.
+    banner:
+      branch: main
+      path: images/banner.png
+      tech:
+      - Next.js
+      - Open AI
   - name: Meal Time
     repo: MealTime
     description: A meal planning and recipe management app with many features that make meal planning a breeze.
