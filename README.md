@@ -13,110 +13,95 @@
 
 ## :computer: Featured Projects
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/UpskillNavigator/" >
       <img src="https://github.com/eyuelberga/UpskillNavigator/blob/main/images/banner.png?raw=true" width="400" alt="Upskill Navigator" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=UpskillNavigator&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/MealTime/" >
       <img src="https://github.com/eyuelberga/MealTime/blob/main/assets/banner.png?raw=true" width="400" alt="Meal Time" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=MealTime&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/MatchTheTilesGame/" >
       <img src="https://github.com/eyuelberga/MatchTheTilesGame/blob/main/screenshots/banner.png?raw=true" width="400" alt="Match The Tiles" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=MatchTheTilesGame&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/CryptoTrack/" >
       <img src="https://github.com/eyuelberga/CryptoTrack/blob/main/banner.png?raw=true" width="400" alt="Crypto Track" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=CryptoTrack&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/TheClassroom/" >
       <img src="https://github.com/eyuelberga/TheClassroom/blob/main/banner.png?raw=true" width="400" alt="The Classroom" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=TheClassroom&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/HTMLCanvasImageWatermarker/" >
       <img src="https://github.com/eyuelberga/HTMLCanvasImageWatermarker/blob/main/banner.png?raw=true" width="400" alt="HTML Canvas Image Watermarker" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=HTMLCanvasImageWatermarker&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/DashStore/" >
       <img src="https://github.com/eyuelberga/DashStore/blob/main/banner.png?raw=true" width="400" alt="Dash Store" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=DashStore&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/peernotes/" >
       <img src="https://github.com/eyuelberga/peernotes/blob/main/assets/banner.png?raw=true" width="400" alt="Peer Notes" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=peernotes&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/keywrite/" >
       <img src="https://github.com/eyuelberga/keywrite/blob/main/logo/banner.png?raw=true" width="400" alt="Keywrite" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=keywrite&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/gis-school-analysis-tool/" >
       <img src="https://github.com/eyuelberga/gis-school-analysis-tool/blob/master/banner.png?raw=true" width="400" alt="School Location Analysis Tool" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=gis-school-analysis-tool&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/pic-share/" >
       <img src="https://github.com/eyuelberga/pic-share/blob/master/img/banner.png?raw=true" width="400" alt="Pic Share" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=pic-share&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/LinkInBio/" >
       <img src="https://github.com/eyuelberga/LinkInBio/blob/main/banner.png?raw=true" width="400" alt="Link In Bio Tool" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=LinkInBio&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/AmharicProverbs/" >
       <img src="https://github.com/eyuelberga/AmharicProverbs/blob/main/banner.png?raw=true" width="400" alt="Amharic Proverbs" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=AmharicProverbs&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/KesarCipher/" >
       <img src="https://github.com/eyuelberga/KesarCipher/blob/main/banner.png?raw=true" width="400" alt="Kesar Cipher" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=KesarCipher&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
-<div align="center">
+<span align="center">
       <a href="https://github.com/eyuelberga/AmharicProverbsAPI/" >
       <img src="https://github.com/eyuelberga/AmharicProverbsAPI/blob/main/banner.png?raw=true" width="400" alt="Amharic Proverbs API" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuelberga&repo=AmharicProverbsAPI&hide_border=true&icon_color=3e7e7e&title_color=3e7e7e" /> 
       </a>
-      </div>
+      </span>
 
 ## :newspaper: Recent Articles
 
