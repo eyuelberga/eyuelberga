@@ -88,8 +88,6 @@ const generateReadme = (
     content.push("## :newspaper: Recent Articles");
     content.push(addRecentArticles(data.social));
   }
-  content.push("## :chart_with_upwards_trend: My GitHub Stats");
-  content.push(addGithubStats(data.social.github));
   return content.join("\n\n");
 };
 try {
