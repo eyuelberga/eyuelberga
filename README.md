@@ -108,9 +108,3 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eyuelberga/2" alt="Recent Article 2">
-
-## :chart_with_upwards_trend: My GitHub Stats
-
-<a href="https://github.com/eyuelberga" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=eyuelberga&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=3e7e7e&hide_border=true" alt="eyuelberga's GitHub Stats" />
-    </a>
