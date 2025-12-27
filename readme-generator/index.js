@@ -10,12 +10,11 @@ const getBannerFromRepo = (repo, path, username, branch) => {
   return `https://github.com/${username}/${repo}/blob/${branch}/${path}?raw=true`;
 };
 const addProject = (name, username, repo, color, banner) => {
-  return `<div align="center">
+  return `<span align="center">
       <a href="https://github.com/${username}/${repo}/" >
       <img src="${banner}" width="400" alt="${name}" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo}&hide_border=true&icon_color=${color}&title_color=${color}" /> 
       </a>
-      </div>`;
+      </span>`;
 };
 
 const getSocialLink = (socialMedia, handle) => {
